@@ -20,7 +20,6 @@ pyretrosheet
 
 A python package for handling retrosheet data files.
 
-
 * Free software: MIT license
 * Documentation: https://pyretrosheet.readthedocs.io.
 
@@ -28,7 +27,8 @@ A python package for handling retrosheet data files.
 Features
 --------
 
-* TODO
+* Parses game stats from Retrosheet event files.
+* Parses play-by-play data from Retrosheet event files.
 
 Credits
 ---------
